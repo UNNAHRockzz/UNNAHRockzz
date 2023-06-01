@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://media.makeameme.org/created/me-an-intern.jpg" width="512px"/>
+😂
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVZth3aZCW92lOIp_JqowQH1gBR_agbPK5DI8rKZVpQ&usqp=CAU&ec=48600112" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UNNAHRockzz&icon=2&color=9)](https://visitcount.itsvg.in)
