@@ -12,10 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UNNAHRockzz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UNNAHRockzz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-😂
+😂<br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVZth3aZCW92lOIp_JqowQH1gBR_agbPK5DI8rKZVpQ&usqp=CAU&ec=48600112" width="512px"/>
 
 ---
